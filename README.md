@@ -1,1 +1,1 @@
-# day2
+# color picker using only html
